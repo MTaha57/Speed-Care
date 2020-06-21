@@ -2,10 +2,10 @@
 
 ```bash
    Health Care System demonstrate how to manage system of
-  hospital
+   hospital
 ```
 ## About Project
-<P> Speed Care is Health Care Website which demonstrate how to manage your hospital by providing some forms like Doctors,Patients,Nurses,Rays,Rooms,Pharamcy and Medical Tests.</P>
+<P> Speed Care is Health Care Website which demonstrate how to manage your hospital by providing some forms like Doctors, Patients, Nurses, Rays, Rooms, Pharamcy and Medical Tests.</P>
 
 ### Technologies used:
 
